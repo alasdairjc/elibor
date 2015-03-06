@@ -1,0 +1,12 @@
+﻿  Elibor.cpp
+c:\users\alasdair\documents\visual studio 2010\projects\elibor\elibor\Form1.h(688): warning C4677: 'XPList': signature of non-private member contains assembly private type 'cliext::vector<_Value_t>'
+          with
+          [
+              _Value_t=int
+          ]
+c:\users\alasdair\documents\visual studio 2010\projects\elibor\elibor\Form1.h(689): warning C4677: 'XPNextLevelList': signature of non-private member contains assembly private type 'cliext::vector<_Value_t>'
+          with
+          [
+              _Value_t=int
+          ]
+  Elibor.vcxproj -> c:\users\alasdair\documents\visual studio 2010\Projects\Elibor\Release\Elibor.exe
